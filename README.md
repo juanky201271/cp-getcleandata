@@ -1,11 +1,11 @@
-##Script - Course Project - Getting and Cleaning Data
-##Author: Juan Carlos Carmona Calvo
-##------------------------------------------------------
+## Script - Course Project - Getting and Cleaning Data
+## Author: Juan Carlos Carmona Calvo
+## ------------------------------------------------------
 
 To convert Raw data to Tidy data you must run the Run run_analysis() function stored in the Run_analysis.R file.
 The function generates an explanatory log of the different phases of the process.
 
-#Fases Conversion:
+# Fases Conversion:
 - Sets the Active Directory to: UCI-HAR-Dataset containing all Raw files unzipped.
 - Create the Output directory: UCI-HAR-Dataset-Tidy.
 - We load in memory the libraries: Plyr and Dplyr. (Informational messages may appear in red, can be ignored if the process continues)
